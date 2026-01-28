@@ -1,4 +1,4 @@
-Dashboard Portfolio
+
 Welcome to my Dashboard Portfolio! This repository showcases my data visualization and analytics projects, built using Power BI, Tableau, and Excel, demonstrating my ability to turn raw data into actionable insights.
 
 Projects Included
